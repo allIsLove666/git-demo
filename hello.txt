@@ -6,4 +6,4 @@ hello xixi! hello git!
 hello xixi! hello git!
 hello xixi! hello git!
 hello xixi! hello git! master test
-hello xixi! hello git!
+hello xixi! hello git! hot-fix test
